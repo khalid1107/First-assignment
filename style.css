@@ -96,7 +96,8 @@ span{
     border-right: 10px solid;
     border-top: 10px solid;
     border-bottom: 10px solid;
-    border-image-slice: 1;
+
+    border-image-slice: 2;
 }
 .box-width img{
     width: 300px;
@@ -114,9 +115,7 @@ span{
 footer p{
     font-size: 30px;
     text-align: center;
-    background-color: gray;
     padding: 15px;
-  
 }
 .box-width-me{
     text-align: justify;
