@@ -59,7 +59,7 @@ span{
 .link-button{    
     text-decoration: none;
     font-size: 30px;
-    background-image: linear-gradient( rgb(15, 138, 209), rgb(238, 119, 8)) ;
+    background-image: linear-gradient( white,gray , black ) ;
     font-weight: 600;
     color:floralwhite;
     padding: 10px 30px;
